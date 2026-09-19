@@ -11,6 +11,12 @@
 
 ## 🖥️ System Architecture & Visual Wiring Layout
 
+### 🔌 Graphical Schematic & Pinout Diagrams
+
+![BluetoothCar](Diagrams/BluetoothCar.png)
+
+
+
 ```
 ┌── ARDUINO BLUETOOTH & RADAR CAR WIRING ─────────────────────────────────┐
 │                                                                         │
